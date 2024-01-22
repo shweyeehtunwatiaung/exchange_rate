@@ -13,54 +13,44 @@ Make sure you have Node.js and your preferred package manager installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/shweyeehtunwatiaung/exchange_rate.git currency-converter
+   git clone https://github.com/your-username/currency-converter.git
    cd currency-converter
    ```
 
 ### Install dependencies using your preferred package manager:
-
 npm install
 
-# or
-
+#### or
 yarn install
 
-# or
-
+#### or
 pnpm install
 
-# or
-
+#### or
 bun install
 
 ### Development
-
 npm run dev
 
-# or
-
+#### or
 yarn dev
 
-# or
-
+#### or
 pnpm dev
 
-# or
-
+#### or
 bun dev
 
 ### Build
-
 npm run build
 
-# or
-
+#### or
 yarn build
 
-# or
+#### or
 
 pnpm build
 
-# or
+#### or
 
 bun build
