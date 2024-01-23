@@ -13,8 +13,8 @@ Make sure you have Node.js and your preferred package manager installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/currency-converter.git
-   cd currency-converter
+   git clone https://github.com/shweyeehtunwatiaung/exchange_rate.git
+   cd exchange_rate
    ```
 
 ### Install dependencies using your preferred package manager:
